@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'bfy'
-  s.version          = '0.4.2'
+  s.version          = '0.4.3'
   s.summary          = 'B-fy framework'
 
 # This description is used to generate tags and improve search results.
@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   
-#  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7' }
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7' }
   
   s.dependency 'Alamofire'
   s.dependency 'SwiftyJSON'
