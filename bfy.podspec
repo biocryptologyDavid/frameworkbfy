@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
 
 #  s.source_files  = 'bfy/Classes/**/*.{h,m,swift}'
-  s.exclude_files = "bfy/Classes/**/*.{h,m,swift}"
+  #s.exclude_files = "bfy/Classes/**/*.{h,m,swift}"
   s.ios.vendored_frameworks = 'Bfy.framework'
 
   # s.resource_bundles = {
