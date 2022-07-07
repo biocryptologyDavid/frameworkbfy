@@ -12,7 +12,7 @@
     "david.vazquez@biocryptology.com": "david.vazquez@biocryptology.com"
   },
   "source": {
-    "http": "https://nexus.sb.biocryptology.net/repository/bfyios/ios/Bfy.framework.zip",
+    "http": "http://nexus.sb.biocryptology.net/repository/bfyios/ios/Bfy.framework.zip",
     "tag": "0.4.1"
   },
   "platforms": {
