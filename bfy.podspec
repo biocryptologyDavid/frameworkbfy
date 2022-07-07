@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Bfy'
+  s.name             = 'bfy'
   s.version          = '0.4.0'
   s.summary          = 'B-fy framework'
 
