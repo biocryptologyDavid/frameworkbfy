@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'B-fy identification framework'
 
-  s.homepage         = 'https://gitlab.sp.biocryptology.com/hanscan/iospods'
+  s.homepage         = 'https://github.com/biocryptologyDavid/frameworkbfy'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'david.vazquez@biocryptology.com' => 'david.vazquez@biocryptology.com' }
