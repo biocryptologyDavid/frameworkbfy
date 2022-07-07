@@ -1,0 +1,42 @@
+{
+  "name": "Bfy",
+  "version": "0.4.0",
+  "summary": "B-fy framework",
+  "description": "B-fy identification framework",
+  "homepage": "https://gitlab.sp.biocryptology.com/hanscan/iospods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "david.vazquez@biocryptology.com": "david.vazquez@biocryptology.com"
+  },
+  "source": {
+    "http": "https://nexus.sb.biocryptology.net/repository/bfyios/ios/Bfy.framework.zip",
+    "tag": "0.4.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "exclude_files": "bfy/Classes/**/*.{h,m,swift}",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "JWTDecode": [
+
+    ],
+    "SwiftyJWT": [
+
+    ],
+    "SwiftJWT": [
+
+    ],
+    "SwiftyRSA": [
+
+    ]
+  }
+}
