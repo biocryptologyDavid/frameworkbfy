@@ -1,6 +1,6 @@
 {
   "name": "bfy",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "B-fy framework",
   "description": "B-fy identification framework",
   "homepage": "https://gitlab.sp.biocryptology.com/hanscan/iospods",
@@ -13,7 +13,7 @@
   },
   "source": {
     "http": "https://nexus.sb.biocryptology.net/repository/bfyios/ios/Bfy.framework.zip",
-    "tag": "0.4.0"
+    "tag": "0.4.1"
   },
   "platforms": {
     "ios": "11.0"
